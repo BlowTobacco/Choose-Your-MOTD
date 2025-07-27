@@ -29,10 +29,12 @@ These are motds from the top servers from namemc in MiniMOTD !?!?!?
 <img width="621" height="143" alt="ognetwork3" src="https://github.com/user-attachments/assets/f6091764-0d69-4007-abb7-3b52d6989fb9" />
 <img width="626" height="153" alt="ognetwork4" src="https://github.com/user-attachments/assets/7359b1a0-e3f5-48b8-be57-4fb4707d21ea" />
 
+Fuckers have 4 motds for a 80 player on server
+
 ## [gamster.org](https://github.com/BlowTobacco/Choose-Your-MOTD/blob/main/THE%20MOTD/gamster/main.conf) - 1k on
 <img width="623" height="149" alt="gamster1" src="https://github.com/user-attachments/assets/2ce92771-187c-4aa0-aa5e-5b3773c4d68b" />
 <img width="621" height="144" alt="gamster2" src="https://github.com/user-attachments/assets/6b8a9e1a-afbb-461e-9ff9-d08ada2b9023" />
 <img width="623" height="152" alt="gamster3" src="https://github.com/user-attachments/assets/dba2262f-39ec-4290-bb44-5bdaa78a3848" />
 
-
-Fuckers have 4 motds for a 80 player on server
+## [enchantedmc.net](https://github.com/BlowTobacco/Choose-Your-MOTD/blob/main/THE%20MOTD/enchantedmc/main.conf) - 1,6k on
+<img width="627" height="156" alt="enchantedmc" src="https://github.com/user-attachments/assets/b461e331-a1c8-4272-baf5-a4b18618ea8a" />
