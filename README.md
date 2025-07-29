@@ -97,3 +97,6 @@ discord blowtobacco
 
 ## [play.terra-mc.ro](https://github.com/BlowTobacco/Choose-Your-MOTD/blob/main/THE%20MOTD/terramc/main.conf)
 <img width="620" height="152" alt="terramc" src="https://github.com/user-attachments/assets/e5b2cd3e-c5fc-4706-930d-763494c46f38" />
+
+## [play.balkanland.org](https://github.com/BlowTobacco/Choose-Your-MOTD/blob/main/THE%20MOTD/balkanland/main.conf)
+<img width="629" height="154" alt="balkanland" src="https://github.com/user-attachments/assets/31f8360f-02fd-4195-a9ad-331eb7a268c1" />
