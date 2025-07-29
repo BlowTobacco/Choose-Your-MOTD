@@ -7,6 +7,10 @@ Add me on discord blowtobacco to suggest a server
 # Any issues
 discord blowtobacco
 
+# Take down or Don't upload
+If you're server is here, or you don't want it here
+Dm me on discord blowtobacco
+ 
 # Servers
 ## [hoplite.gg](https://github.com/BlowTobacco/Choose-Your-MOTD/blob/main/THE%20MOTD/hoplite/main.conf)
 <img width="616" height="154" alt="hoplite" src="https://github.com/user-attachments/assets/da7fbc11-eb7b-41de-b78b-724ffce96851" />
